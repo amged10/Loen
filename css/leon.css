@@ -146,7 +146,7 @@ body {
 /* end header */
 /* start landing section*/
 .landing{
-    background-image: url(../images/landing.jpg);
+    background-image: url(../images/landing.WebP);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
